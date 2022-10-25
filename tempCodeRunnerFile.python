@@ -1,0 +1,5 @@
+detik = int(input())
+jam   = detik / 3600
+detik = detik % 3600
+menit = detik / 60
+detik = detik % 60
